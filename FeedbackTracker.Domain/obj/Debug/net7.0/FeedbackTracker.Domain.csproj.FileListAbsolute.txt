@@ -1,0 +1,12 @@
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\bin\Debug\net7.0\FeedbackTracker.Domain.deps.json
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\bin\Debug\net7.0\FeedbackTracker.Domain.dll
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\bin\Debug\net7.0\FeedbackTracker.Domain.pdb
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.csproj.AssemblyReference.cache
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.AssemblyInfo.cs
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.dll
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\refint\FeedbackTracker.Domain.dll
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\FeedbackTracker.Domain.pdb
+C:\Users\CarlosGamboa\Development\apps\feedback-tracker\FeedbackTracker.Domain\FeedbackTracker.Domain\obj\Debug\net7.0\ref\FeedbackTracker.Domain.dll
